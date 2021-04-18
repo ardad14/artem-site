@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="   css/normalize.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&display=swap" rel="stylesheet">
     <title>Personal blog</title>
@@ -16,7 +16,7 @@
     </form>
     <div class="rightside">
         <div class="views"><p class="looks"></p>
-            <img src="../../public/img/eye.png" alt="*not found*" class="icon"></div>
+            <img src="img/eye.png" alt="*not found*" class="icon"></div>
         <form action="signin" method="post">
             <button class="button" type="submit">Войти</button>
         </form>
@@ -30,15 +30,15 @@
     </div>
     <div class="blog">
         <p class="blog_text">@foodlover</p>
-        <img src="../../../public/img/food.jpg" class="img" alt="">
+        <img src="img/food.jpg" class="img" alt="">
     </div>
     <div class="blog">
         <p class="blog_text">@linda_travel_blog</p>
-        <img src="../../../public/img/travel.jpg" class="img" alt="">
+        <img src="img/travel.jpg" class="img" alt="">
     </div>
     <div class="blog">
         <p class="blog_text">@makeupbykate</p>
-        <img src="../../../public/img/beauty.jpg" class="img" alt="">
+        <img src="img/beauty.jpg" class="img" alt="">
     </div>
     <div class="footer"></div>
 
